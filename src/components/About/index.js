@@ -19,6 +19,7 @@ class About extends Component {
               <h1>About Page</h1>
               <p>Sarfunin, Maria</p>
               <p>105011910100</p>
+              <p>Sistem Informasi<p>
           </div>
         );
       }
